@@ -1,12 +1,16 @@
-# **Hey there!!! I`m Nícholas!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35"/>
-## 📫 Reach me at [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholas-pereira-07080b13a/) 
-👀 I’m interested in ...
-🌱 I’m currently learning ...
-💞️ I’m looking to collaborate on ...
+## Hey you!!! Welcome to my profile!!! :grinning:
+## I`m Nícholas, nice to meet you! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35"/>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
- 
-<!---
-nicholascfp/nicholascfp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I`m gratuated in Science and Technology at [UNIFAL-MG Univerity](https://www.unifal-mg.edu.br/pocosdecaldas/) and currently am in my undergraduate studies in Computer Science at [PUCMINAS University](https://www.pucpcaldas.br/).
+
+Actually I`m looking for an opportunity to grow and develop myself professionally. Obtaining new knowledges and new experiences  
+in the professional environment.
+
+## 🖥️ Projects:
+
+* 
+
+## 📫Reach me at:
+* [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/nicholas.pereira.180/)
+* [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nicholascfp/)
+* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholas-pereira-07080b13a/) 
