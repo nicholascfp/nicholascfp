@@ -3,7 +3,7 @@
 
 I've gratuated in Science and Technology at [UNIFAL-MG University](https://www.unifal-mg.edu.br/pocosdecaldas/) and I'm currently in my undergraduate studies in Computer Science at [PUCMINAS University](https://www.pucpcaldas.br/).
 
-Actually I`m looking for an opportunity to grow and develop myself professionally. Obtaining new knowledges and new experiences  
+Actually I'm looking for an opportunity to grow and develop myself professionally. Obtaining new knowledges and new experiences  
 in the professional environment.
 
 ## 🖥️ Projects:
