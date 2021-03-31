@@ -1,7 +1,7 @@
 ## Hey you!!! Welcome to my profile!!! :grinning:
 ## I'm Nícholas, nice to meet you! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35"/>
 
-I've gratuated in Science and Technology at [UNIFAL-MG Univerity](https://www.unifal-mg.edu.br/pocosdecaldas/) and currently I'm in my undergraduate studies in Computer Science at [PUCMINAS University](https://www.pucpcaldas.br/).
+I've gratuated in Science and Technology at [UNIFAL-MG University](https://www.unifal-mg.edu.br/pocosdecaldas/) and I'm currently in my undergraduate studies in Computer Science at [PUCMINAS University](https://www.pucpcaldas.br/).
 
 Actually I`m looking for an opportunity to grow and develop myself professionally. Obtaining new knowledges and new experiences  
 in the professional environment.
